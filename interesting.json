@@ -1,0 +1,25 @@
+{
+  "nameOfGame" : [
+    {
+      "Version Number" : 1,
+      "Buffs" : "player can jump higher",
+      "Nerfs" : "player does less damage",
+      "Patches" : "map has changed more",
+      "Skins and Stuff" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjOicHn___YAhVQbK0KHYn0BaMQjRx6BAgAEAY&url=http%3A%2F%2Fsaxony-blue.com%2Fgreat-pic%2F5981359.html&psig=AOvVaw32VtjJ5ZcATug-e3vr1Lkl&ust=1517412392232724"
+    },
+    {
+      "Version Number" : 2,
+      "Buffs" : "player can jump even higher",
+      "Nerfs" : "player does even less damage",
+      "Patches" : "map has changed even more",
+      "Skins and Stuff" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjOicHn___YAhVQbK0KHYn0BaMQjRx6BAgAEAY&url=http%3A%2F%2Fsaxony-blue.com%2Fgreat-pic%2F5981359.html&psig=AOvVaw32VtjJ5ZcATug-e3vr1Lkl&ust=1517412392232724"
+    },
+    {
+      "Version Number" : 3,
+      "Buffs" : "player can jump highest",
+      "Nerfs" : "player does no damage",
+      "Patches" : "map has changed most",
+      "Skins and Stuff" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjOicHn___YAhVQbK0KHYn0BaMQjRx6BAgAEAY&url=http%3A%2F%2Fsaxony-blue.com%2Fgreat-pic%2F5981359.html&psig=AOvVaw32VtjJ5ZcATug-e3vr1Lkl&ust=1517412392232724"
+    }
+  ]
+}
